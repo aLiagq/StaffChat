@@ -1,0 +1,2 @@
+format: "&9[StaffChat] &7(%server%) &f%player%: %message%"
+servername: "servername"

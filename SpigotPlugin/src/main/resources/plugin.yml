@@ -1,0 +1,6 @@
+main: me.aliaga.staffchat.Main
+version: 1.0
+name: StaffChat
+description: A shit staffchat plugin.
+commands:
+  staffchat:
